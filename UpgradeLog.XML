@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="IpPbxCtiTest">
+</Property><Property Name="解决方案文件" Value="D:\米经理资料\agent客户端\Rich Client\IpPbxCtiTest.sln">
+</Property><Property Name="用户选项文件" Value="D:\米经理资料\agent客户端\Rich Client\IpPbxCtiTest.suo">
+</Property><Property Name="Date" Value="2012年5月8日">
+</Property><Property Name="Time" Value="15:49">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="IpPbxCtiTest.sln" Description="文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\IpPbxCtiTest.sln">
+</Event><Event ErrorLevel="0" Project="" Source="IpPbxCtiTest.suo" Description="文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\IpPbxCtiTest.suo">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="IpPbxCtiTest.csproj" Description="项目文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\IpPbxCtiTest.csproj">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="Form1.cs" Description="文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="Form1.Designer.cs" Description="文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="Form2.cs" Description="文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\Form2.cs">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="Form2.Designer.cs" Description="文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="Program.cs" Description="文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="Properties\Resources.Designer.cs" Description="文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="Properties\Settings.Designer.cs" Description="文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="Web References\WebReference\Reference.cs" Description="文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\Web References\WebReference\Reference.cs">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="App.config" Description="文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\App.config">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="Properties\Settings.settings" Description="文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="Lib\log4cpp.properties" Description="文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\Lib\log4cpp.properties">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="Lib\reg.bat" Description="文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\Lib\reg.bat">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="Lib\un reg.bat" Description="文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\Lib\un reg.bat">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="Web References\WebReference\Reference.map" Description="文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\Web References\WebReference\Reference.map">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="Web References\WebReference\Service.disco" Description="文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\Web References\WebReference\Service.disco">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="Web References\WebReference\Service.wsdl" Description="文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\Web References\WebReference\Service.wsdl">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="Lib\ACE.dll" Description="文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\Lib\ACE.dll">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="Lib\ACE_Utility.dll" Description="文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\Lib\ACE_Utility.dll">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="Lib\ConnectInfo.dll" Description="文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\Lib\ConnectInfo.dll">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="Lib\log4cpp.dll" Description="文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\Lib\log4cpp.dll">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="Lib\OmniCTIX.ocx" Description="文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\Lib\OmniCTIX.ocx">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="Lib\SocketClient.dll" Description="文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\Lib\SocketClient.dll">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="Form1.resx" Description="文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="Properties\Resources.resx" Description="文件已成功备份为 D:\米经理资料\agent客户端\Rich Client\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="IpPbxCtiTest.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="IpPbxCtiTest" Source="IpPbxCtiTest.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="IpPbxCtiTest.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="IpPbxCtiTest.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="IpPbxCtiTest" Source="IpPbxCtiTest.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
